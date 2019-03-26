@@ -1,0 +1,11 @@
+E:\feri ITK\2 letnik\2 Semester\SISTEMI ODLOČANJA\praksa 2018\projekt\Ahp\Ahp\bin\Debug\Ahp.exe.config
+E:\feri ITK\2 letnik\2 Semester\SISTEMI ODLOČANJA\praksa 2018\projekt\Ahp\Ahp\bin\Debug\Ahp.exe
+E:\feri ITK\2 letnik\2 Semester\SISTEMI ODLOČANJA\praksa 2018\projekt\Ahp\Ahp\bin\Debug\Ahp.pdb
+E:\feri ITK\2 letnik\2 Semester\SISTEMI ODLOČANJA\praksa 2018\projekt\Ahp\Ahp\obj\Debug\Ahp.Form1.resources
+E:\feri ITK\2 letnik\2 Semester\SISTEMI ODLOČANJA\praksa 2018\projekt\Ahp\Ahp\obj\Debug\Ahp.Properties.Resources.resources
+E:\feri ITK\2 letnik\2 Semester\SISTEMI ODLOČANJA\praksa 2018\projekt\Ahp\Ahp\obj\Debug\Ahp.csproj.GenerateResource.Cache
+E:\feri ITK\2 letnik\2 Semester\SISTEMI ODLOČANJA\praksa 2018\projekt\Ahp\Ahp\obj\Debug\Ahp.exe
+E:\feri ITK\2 letnik\2 Semester\SISTEMI ODLOČANJA\praksa 2018\projekt\Ahp\Ahp\obj\Debug\Ahp.pdb
+E:\feri ITK\2 letnik\2 Semester\SISTEMI ODLOČANJA\praksa 2018\projekt\Ahp\Ahp\obj\Debug\Ahp.Izracuni_tabel.resources
+E:\feri ITK\2 letnik\2 Semester\SISTEMI ODLOČANJA\praksa 2018\projekt\Ahp\Ahp\obj\Debug\Ahp.Izracun_koristnosti.resources
+E:\feri ITK\2 letnik\2 Semester\SISTEMI ODLOČANJA\praksa 2018\projekt\Ahp\Ahp\obj\Debug\Ahp.csprojResolveAssemblyReference.cache
